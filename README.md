@@ -47,5 +47,3 @@ Assignment for an Object-Oriented Programming course. Focused on applying OOP co
 
 ---
 
-**Author:** Ohad Livay  
-**University ID:** 208464289
